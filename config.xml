@@ -11,4 +11,5 @@
 		Rahul Bohra
 	</author>
 	<feature name="http://plugins.phonegap.com/ChildBrowser/2.0.1" />
+	<access origin="*"/>
 </widget>
